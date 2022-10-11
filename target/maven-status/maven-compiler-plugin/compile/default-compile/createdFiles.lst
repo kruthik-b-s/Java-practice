@@ -1,0 +1,6 @@
+com/hibernatecontroller/UpdateCustomer.class
+com/hibernatecontroller/DeleteCustomer.class
+com/hibernatecontroller/GetAllCustomers.class
+com/hibernatedto/Customer.class
+com/hibernatecontroller/GetCustomer.class
+com/hibernatecontroller/CustomerController.class
